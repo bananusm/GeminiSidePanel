@@ -45,7 +45,7 @@ This extension requires the following permissions:
 
 ### Scripts
 
-- **options.js**: Handles click events and updates the status text on the options page.
+- **options.js**: its a template, there is no options to put yet
 - **service-worker.js**: Initializes the side panel behavior and logs messages to the console.
 
 ### Styling
@@ -58,5 +58,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Credits
 
-- Icons by Matt Baran.
 - Developed by Matt Baran.
